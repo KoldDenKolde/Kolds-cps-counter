@@ -1,0 +1,11 @@
+.gradle/
+build/tmp/
+*.log
+*.class
+*.disabled
+*.bak
+*.tmp
+/.idea/
+/.vscode/
+Thumbs.db
+desktop.ini
