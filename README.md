@@ -28,10 +28,9 @@ Required:
 - Minecraft 1.21.6-1.21.11
 - Fabric Loader
 - Fabric API
-- Cloth Config
 
 Optional:
-
+- Cloth Config
 - Mod Menu
 
 ## Source
