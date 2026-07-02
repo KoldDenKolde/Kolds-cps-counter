@@ -3,13 +3,13 @@
 Fabric client mod for Minecraft 1.21.6 through 1.21.11.
 
 ## Features
-
-- CPS counter HUD.
-- Tiny old-hitter module from the working compact build.
-- Jump reset on `Z`.
-- Hitter toggle on `F`.
-- Runner/sprint behavior locked on.
-- Kold's CPS Counter branding and icon.
+- Clean CPS counter HUD for Fabric.
+- Shows left, right, or combined click speed.
+- Custom label text for the counter.
+- Configurable text color, background color, text shadow, and background visibility.
+- Move the CPS counter anywhere on screen through Mod Menu.
+- Saves HUD position and visual settings between launches.
+- Lightweight client-side display mod for Minecraft 1.21.6 through 1.21.11.
 
 ## Download
 
