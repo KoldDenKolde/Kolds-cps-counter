@@ -38,6 +38,10 @@ Optional:
 
 This repo contains the source/staging files used for the Kold build, plus the built jar.
 
+Source: https://github.com/kolddenkolde/Kolds-cps-counter
+
+Issues: https://github.com/kolddenkolde/Kolds-cps-counter/issues
+
 ## Issues
 
 Use the GitHub Issues tab to report bugs or request changes.

@@ -8,9 +8,9 @@
     "Kold"
   ],
   "contact": {
-    "homepage": "https://github.com/YOUR_GITHUB_USERNAME/Kolds-cps-counter",
-    "sources": "https://github.com/YOUR_GITHUB_USERNAME/Kolds-cps-counter",
-    "issues": "https://github.com/YOUR_GITHUB_USERNAME/Kolds-cps-counter/issues"
+    "homepage": "https://github.com/kolddenkolde/Kolds-cps-counter",
+    "sources": "https://github.com/kolddenkolde/Kolds-cps-counter",
+    "issues": "https://github.com/kolddenkolde/Kolds-cps-counter/issues"
   },
   "license": "MIT",
   "icon": "assets/kolds-cps-counter/icon.png",
